@@ -1,0 +1,158 @@
+.flexible-container{
+    display: flex;
+    margin-bottom: 120px;
+}
+.top-container{
+    margin-top: 60px;
+}
+h1{
+
+    color:rgb(112, 109, 109);
+    font-family: 'Montserrat', sans-serif;
+    font-size:60px;
+}
+.about-me-text{
+
+    color:rgb(112, 109, 109);
+    font-family: 'Montserrat', sans-serif;
+    font-size:40px;
+}
+
+    
+.imagine-text{
+
+    color:rgb(146, 142, 142);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;   
+}
+.text-color{
+    color: orange;
+}
+.half-width{
+    width: 45%;
+}
+.half-width-left{
+    width: 55%;
+}
+.half-width a{
+    
+    padding:20px 40px;
+    background-image: linear-gradient(to right, rgb(253, 144, 2),tomato);
+    text-decoration: none;
+    border-radius: 30px;
+    color: white;
+    font-size:20px;
+    font-weight: bold;
+    box-shadow:3px 3px 25px pink;   
+}
+.half-width img{
+    width: 90%;
+    padding-left: 70px;
+}
+#skip-diet{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.bg-image{
+    background-image: url(images/Frame\ 59.jpg);
+    background-size: 100% 100%;
+    padding-top: 60px;
+}
+.bg-female-image img{
+    height: 460px;
+    width: 290px;
+    margin-left: 250px;
+}
+.about-me-section{
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+.about-me-section p{ 
+    font-family: sans-serif;
+    font-size:17px;
+    color:rgb(146, 142, 142);
+    text-align: justify;
+    width: 65%;
+}
+
+.recipe-container{
+    margin:50px 50px 0px 200px;
+    
+}
+.recipe-item{
+
+    padding: 15px 15px;
+    margin:20px 35px ;
+    width: 23%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 25px gray;
+}
+.recipes-text{
+
+    color:rgb(112, 109, 109);
+    font-family: 'Montserrat', sans-serif;
+    font-size:40px;
+    text-align: center;
+}
+.recipes-paragraph-text{ 
+    font-family: sans-serif;
+    font-size:17px;
+    color:rgb(146, 142, 142);
+    text-align: center;
+    width: 45%;
+    margin: auto;
+}
+.recipe-item img{
+    width: 286px;
+    height:235px ;
+}
+.recipe-item p{
+    font-family: sans-serif;
+    font-size:17px;
+    color:rgb(146, 142, 142);
+    text-align: justify;   
+}
+.delivery-container{
+    display: flex;
+    margin: 30px 0 30px 100px;
+}
+.delivery-section{
+    text-transform: uppercase;   
+}
+.delivery-section h4{
+    color: orange;
+}
+.delivery-section p{
+    font-family: sans-serif;
+    font-size:10px;
+    width: 70%;
+}
+.cuisine-container{
+    display: flex;
+    margin: 30px 0 30px 100px;
+}
+.cuisine-header{
+    margin-left: 90px;
+}
+.cuisine-item{
+    width: 30%;
+    color: orange;
+}
+
+footer{
+    height: 200px;
+    background-color: rgb(17, 17, 27);
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.footer-food-text{
+    color: rgb(250, 133, 78);
+    margin-right: 20px;
+}
+
+.footer-network-text{
+    color: gray;
+    
+}
